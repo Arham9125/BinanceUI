@@ -1,5 +1,8 @@
 # cryptocurrency
 
+<img width="1440" alt="crptoui" src="https://github.com/Arham9125/BinanceUI/assets/90573710/f50544e2-1696-491b-b1b7-861f0145ce10">
+
+
 A new Flutter project.
 
 ## Getting Started
